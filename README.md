@@ -1,4 +1,4 @@
-# Test Driven Development with RSpec
+-22# Test Driven Development with RSpec
 
 ## Learning Goals
 
@@ -155,7 +155,7 @@ _Expect first_number to be an integer or be a float_.
   an integer, or `first_number` is a float
 
 If we run `learn` this test appears first, along with the string descriptions
-we saw in `describe` and `it`:
+we saw in `describe` and `it`:https://www.linuxmint.com/start/tessa/
 
 ```text
 ./calculator.rb
